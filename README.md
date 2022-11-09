@@ -6,24 +6,7 @@
         "id": "dRw8whWVO847"
       },
       "source": [
-        "# HW3-1: Comparison of different clustering algorithms\n",
-        "In our lecture, we talked about **K-means clustering**, **spectral clustering** and **Leiden clustering(a modified version of louvain clustering algorithm)**. \n",
-        "\n",
-        "In this homework, we will play around with those three algorithms on different datasets, and see how those algorithms perform in different circumstances.\n",
-        "\n",
-        "#### Note\n",
-        "\n",
-        "For all two notebooks, please insert your code under comments like this:\n",
-        "```\n",
-        "# =========================================\n",
-        "# instruction on what to implement\n",
-        "# REPLACE `pass` WITH YOUR CODE or INSERT YOUR CODE BELOW\n",
-        "# =========================================\n",
-        "```\n",
-        "\n",
-        "**You can add additional lines of code when necessary.**"
-      ]
-    },
+        "# Comparison of different clustering algorithms\n",
     {
       "cell_type": "code",
       "execution_count": 1,
